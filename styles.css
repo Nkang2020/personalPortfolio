@@ -28,12 +28,12 @@ h1{
   font-size:5em
 }
 .pageOne{
-  background:url("https://images.unsplash.com/photo-1462331940025-496dfbfc7564");
+  background:url("public/space.jpg");
   background-size:cover;
   padding-bottom:10%;
 }
 .pageTwo{
-  background:url("https://images.unsplash.com/photo-1476610182048-b716b8518aae");
+  background:url("public/waterfall.jpg");
   background-size:cover;
   padding-bottom:5%;
   padding-top:5%;
@@ -63,13 +63,13 @@ p{
   border-radius:50%;
 }
 .pageThree{
-  background:url("https://images.unsplash.com/photo-1482872376051-5ce74ebf0908");
+  background:url("public/redback.jpg");
   background-size:cover;
   padding-top:5%;
   padding-bottom:5%;
 }
 .pageFour{
-  background:url("https://images.unsplash.com/photo-1484199383121-dfa3c30608cd");
+  background:url("public/beachback.jpg");
   background-size:cover;
   /*padding-bottom:5%; */
   padding-top:5%;
